@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['raisecategory_0',['raiseCategory',['../class_s_a_ribbon_bar.html#a49694b13270f73e48a336309b2ac1da7',1,'SARibbonBar']]],
+  ['recalcexpandgeomarray_1',['recalcExpandGeomArray',['../class_s_a_ribbon_pannel_layout.html#aa769a65f37dc429f80ce85c6bd27eb2c',1,'SARibbonPannelLayout']]],
+  ['recalcgridsize_2',['recalcGridSize',['../class_s_a_ribbon_gallery_group.html#a7ebf4d82a25fe9eab518e6f8a8acfc01',1,'SARibbonGalleryGroup']]],
+  ['registeaction_3',['registeAction',['../class_s_a_ribbon_actions_manager.html#a1ca8187d1ab6dfba8587659da3e354a2',1,'SARibbonActionsManager']]],
+  ['removeat_4',['removeAt',['../class_s_a_color_grid_widget_1_1_private_data.html#a740e360919c17ed4e17b716475a6508a',1,'SAColorGridWidget::PrivateData']]],
+  ['removecategory_5',['removeCategory',['../class_s_a_ribbon_bar.html#a9680c280a9d1dc8cd5b82571c61fd6a5',1,'SARibbonBar']]],
+  ['removepannel_6',['removePannel',['../class_s_a_ribbon_category.html#a9eaa22261f1cbc2cb5dca50ff842da14',1,'SARibbonCategory::removePannel(SARibbonPannel *pannel)'],['../class_s_a_ribbon_category.html#a7d1ac60952d13a47f4900b8120cd066d',1,'SARibbonCategory::removePannel(int index)']]],
+  ['removetag_7',['removeTag',['../class_s_a_ribbon_actions_manager.html#adadeaad3a278aa88f5453015af8d16f2',1,'SARibbonActionsManager']]],
+  ['removewidget_8',['removeWidget',['../class_s_a_ribbon_gallery_viewport.html#ac9d341caa55ca4ff843f0499a8dd5e6e',1,'SARibbonGalleryViewport']]],
+  ['resetsize_9',['resetSize',['../class_s_a_ribbon_bar_1_1_private_data.html#a94d9d524803754b15be6ed2db958541c',1,'SARibbonBar::PrivateData']]],
+  ['resettitlelabelfont_10',['resetTitleLabelFont',['../class_s_a_ribbon_pannel_1_1_private_data.html#a43dbc802410554c01ac374c426e60680',1,'SARibbonPannel::PrivateData']]],
+  ['resettoolbuttonsize_11',['resetToolButtonSize',['../class_s_a_ribbon_pannel.html#af57e384453125c558b1404fe4063fd98',1,'SARibbonPannel']]],
+  ['resizeevent_12',['resizeEvent',['../class_s_a_ribbon_tool_button.html#aa70be1fe676e7a9053a5f16cd2101965',1,'SARibbonToolButton']]],
+  ['ribbonalignment_13',['ribbonAlignment',['../class_s_a_ribbon_bar.html#a37282adaada2ff1ca6a8ef0ba7e9efe8',1,'SARibbonBar']]],
+  ['ribbonbar_14',['ribbonBar',['../class_s_a_ribbon_category.html#a11e8929bc68b8e3679bbd6b22b36dd04',1,'SARibbonCategory::ribbonBar()'],['../class_s_a_ribbon_main_window.html#a1abb8396bcfddfdc41657e36d577b50c',1,'SARibbonMainWindow::ribbonBar()'],['../class_s_a_ribbon_pannel.html#a6da1e57c60c953e86c46698e6526a46e',1,'SARibbonPannel::ribbonBar()'],['../class_s_a_ribbon_widget.html#a4ef9b671f67ac0d78ab7aa9f1b6b65dd',1,'SARibbonWidget::ribbonBar()']]],
+  ['ribbonmodechanged_15',['ribbonModeChanged',['../class_s_a_ribbon_bar.html#a52aa893b23e58177a5837d100c82d8b2',1,'SARibbonBar']]],
+  ['ribbonpannel_16',['ribbonPannel',['../class_s_a_ribbon_pannel_layout.html#a9021b7f06d7f9c404ae3d93bdf8b491d',1,'SARibbonPannelLayout']]],
+  ['ribbonpannelitem_17',['ribbonPannelItem',['../class_s_a_ribbon_pannel.html#aec5bc9b74e07f76ce4cf47fc65d5ffbe',1,'SARibbonPannel']]],
+  ['ribbonstackedwidget_18',['ribbonStackedWidget',['../class_s_a_ribbon_bar.html#a41519b6f92b8d0844f55411f11c11203',1,'SARibbonBar']]],
+  ['ribbonstylechanged_19',['ribbonStyleChanged',['../class_s_a_ribbon_bar.html#a466b9bf5d89406b0170a62763d585e22',1,'SARibbonBar']]],
+  ['ribbontabbar_20',['ribbonTabBar',['../class_s_a_ribbon_bar.html#a3242c69600f9e91a8ef5e942a3f57a6a',1,'SARibbonBar']]],
+  ['ribbontoolbuttons_21',['ribbonToolButtons',['../class_s_a_ribbon_pannel.html#a3d08836ff40aa3a6c9e06ad0ae9d6aee',1,'SARibbonPannel']]],
+  ['rightbuttongroup_22',['rightButtonGroup',['../class_s_a_ribbon_bar.html#ac0260b06ce426ed7b006f9f572901688',1,'SARibbonBar']]]
+];
